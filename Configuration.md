@@ -22,6 +22,18 @@ What happens on grip press
 ```
 What happens on thumbstick move
 ```
+- ReverseTrigger <span class="variable-type bool">bool</span> *(can be changed In-Game)*
+```
+Activate action when trigger is released rather than pressed
+```
+- ReverseGrip <span class="variable-type bool">bool</span> *(can be changed In-Game)*
+```
+Activate action when grip is released rather than pressed
+```
+- ReverseThumbstick <span class="variable-type bool">bool</span> *(can be changed In-Game)*
+```
+Activate action when thumbstick is in zero position
+```
 - ThumstickDirection <span class="variable-type enum">Horizontal | Vertical</span> **(should be changed In-Game)**
 ```
 In which direction do I need to move the thumbstick to spin you saber
