@@ -88,9 +88,9 @@ Slow down time during the throw trick
 ```
 Completes the spin if stopped midway
 ```
-- SlowmoMultiplier <span class="variable-type float">float</span>
+- SlowmoAmount <span class="variable-type float">float</span>
 ```
-How much percent of the default time during slowmo
+How to subtract from the current timescale during slowmo
 ```
 - VelocityBufferSize <span class="variable-type int">int</span> *(Advanced)*
 ```

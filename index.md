@@ -2,7 +2,7 @@
 title: Home
 layout: default
 ---
-## Get familiar with TrickSaber
+## Getting familiar with TrickSaber
 
 - [Installation](Installation)
 - [Configuration](Configuration)
