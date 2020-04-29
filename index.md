@@ -4,7 +4,7 @@ layout: default
 ---
 ## Thanks for using TrickSaber
 
-:heart:
+![](https://github.com/images/icons/emoji/heart.png)
 
 ## Getting familiar with TrickSaber
 
