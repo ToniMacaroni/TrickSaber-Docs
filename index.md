@@ -6,9 +6,9 @@ layout: default
 
 ![](https://github.com/images/icons/emoji/heart.png)
 
-## Getting familiar with TrickSaber
+## Getting familiar with the mod
 
 - [Installation](Installation)
 - [Configuration](Configuration)
 
-[Download](https://github.com/ToniMacaroni/TrickSaber/releases){: .btn .btn-purple }
+[Download](https://github.com/ToniMacaroni/TrickSaber/releases){: .btn .btn-purple .ml-4}
