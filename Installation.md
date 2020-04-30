@@ -13,6 +13,8 @@ nav_order: 0
 1. Delete 'TrickSaber.dll' from the '\<Beat Saber folder\>/Plugins/' directory
 
 ## Fixing bindings for Index Knuckles
-https://www.youtube.com/watch?v=Bb4YKwmYvWk&feature=youtu.be
+This is a temporary fix until I find an automatic solution.
+Feel free to experiment in the bindings ui and let me know if something is wrong.
+[Video Instruction](https://www.youtube.com/watch?v=Bb4YKwmYvWk&feature=youtu.be)
 
 *If you need any help, dm me on discord and I will do my best to help you out with any problems.*
