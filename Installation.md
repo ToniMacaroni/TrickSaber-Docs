@@ -12,4 +12,7 @@ nav_order: 0
 ## Uninstalling
 1. Delete 'TrickSaber.dll' from the '\<Beat Saber folder\>/Plugins/' directory
 
+## Fixing bindings for Index Knuckles
+https://www.youtube.com/watch?v=Bb4YKwmYvWk&feature=youtu.be
+
 *If you need any help, dm me on discord and I will do my best to help you out with any problems.*
