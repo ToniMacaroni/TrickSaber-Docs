@@ -74,6 +74,10 @@ Multiplies the throw velocity with the value
 ```
 How fast does the saber return
 ```
+- ReturnSpinMultiplier <span class="variable-type float">float</span>
+```
+How fast does the saber spin on return
+```
 - EnableCuttingDuringTrick <span class="variable-type bool">bool</span> *(currently does nothing)*
 ```
 Can I hit stuff during a trick
@@ -87,6 +91,10 @@ Slow down time during the throw trick
 - CompleteRotationMode <span class="variable-type bool">bool</span>
 ```
 Completes the spin if stopped midway
+```
+- DisableIfNotesOnScreen <span class="variable-type bool">bool</span>
+```
+Should tricksaber disable itself automatically if notes are on screen and enable itself only if there are none
 ```
 - SlowmoAmount <span class="variable-type float">float</span>
 ```
